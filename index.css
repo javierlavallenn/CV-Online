@@ -1,0 +1,15 @@
+img{
+ width: 150px;
+align-items: left;
+}
+.list-item{
+  text-align: left
+  
+}
+.list-git{
+  margin-right: 60%;
+}
+
+.list{
+list-style-type: none;
+}
